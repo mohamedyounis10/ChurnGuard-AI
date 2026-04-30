@@ -204,5 +204,5 @@ Run all cells in order, then verify `best_model.pkl` is generated.
 <a id="author"></a>
 ## Author ✍️
 
-- **Name**: Mohammed Younis
+- **Name**: Mohamed Younis
 - **Program**: MSC KFS - Data Science Phase 2 💙
