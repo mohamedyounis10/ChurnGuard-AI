@@ -85,6 +85,7 @@ Project/
 │  └─ test.csv
 ├─ notebook.ipynb
 ├─ README.md
+├─ Presentation.pdf
 ├─ image.png 
 ├─ app.py
 └─ best_model.pkl
