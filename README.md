@@ -169,28 +169,11 @@ These challenges are addressed through careful EDA, feature engineering, and mod
 <a id="streamlit-preview"></a>
 ## Streamlit Preview 🖼️
 
-You can add screenshots of the app here after running:
+<img width="1919" height="885" alt="Screenshot 2026-04-30 105140" src="https://github.com/user-attachments/assets/c7d5bb81-15c3-4582-8fc0-5af2defee133" /> 
 
 ```bash
 streamlit run app.py
 ```
-
-Suggested screenshots 📸:
-- Home screen / input form
-- Prediction result (Low Churn Risk)
-- Prediction result (High Churn Risk)
-- Probability metric and engineered features table
-
-Example markdown template:
-
-```md
-![Streamlit Home](images/streamlit-home.png)
-![Low Risk Prediction](images/streamlit-low-risk.png)
-![High Risk Prediction](images/streamlit-high-risk.png)
-![Prediction Details](images/streamlit-details.png)
-```
-
-Tip: create an `images/` folder in the project root and place all screenshots there for clean organization.
 
 ---
 
