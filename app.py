@@ -35,7 +35,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 @st.cache_resource
-def load_model(model_path: str = r'C:\Users\moham\Desktop\MSC - KFS\Data Scinece - Phase 2\Final Project\best_model.pkl'):
+def load_model(model_path: str = r'best_model.pkl'):
     return joblib.load(model_path)
 
 def build_features(raw: dict) -> pd.DataFrame:
