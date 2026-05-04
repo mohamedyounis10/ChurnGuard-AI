@@ -77,7 +77,7 @@ def reorder_features_for_model(df: pd.DataFrame, model) -> pd.DataFrame:
     return df.reindex(columns=fallback_order)
 
 with st.sidebar:
-    st.image(r"C:\Users\moham\Desktop\MSC - KFS\Data Scinece - Phase 2\Final Project\image.png")
+    st.image(r"image.png")
     st.title("Project Info 🎓")
     st.info("""
     **Student:** Mohamed Younis  
